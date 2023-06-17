@@ -1,11 +1,11 @@
 Thiago Fogaça de Almeida
 About Me
-Hello! My name is Thiago Fogaça de Almeida, and I'm a technology and software development enthusiast. I am 21 years old and currently reside in Itu, Brazil.
+Hello! My name is Thiago Fogaça, and I'm a technology and software development enthusiast. I am 21 years old and currently reside in Itu, Brazil.
 
 I have interests in various areas of technology, including:
 
-Back-end
-Front-end
+Data analyst
+Web Development
 Information security
 Databases
 API development
