@@ -8,7 +8,6 @@ Back end
 Web Development
 Databases
 API development
-System analyzer
 
 I am constantly seeking to enhance my knowledge and skills, especially in the areas of Web Development and System analyzer.
 
